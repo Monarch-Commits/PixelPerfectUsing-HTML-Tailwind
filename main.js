@@ -42,7 +42,7 @@ GallaryCards.innerHTML = projects
                ${gallary.title}
               </p>
               <p class="text-[17px] leading-[27px] text-[#2D2D2D]">
-              ${gallary.description}
+              ${gallary.category}
               </p>
             </div>
           </div>`;
