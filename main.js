@@ -34,7 +34,7 @@ GallaryCards.innerHTML = projects
     return `
 
 <div
-            class="flex h-[419px] w-full max-w-[394.67px] min-w-[320px] flex-col gap-[24px]"
+            class="flex max-h-[419px] h-full w-full max-w-[394.67px] min-w-[320px] flex-col gap-[24px]"
           >
             <img src=${gallary.image} alt="1" />
             <div class="flex flex-col gap-[8px] font-[Epilogue]">
